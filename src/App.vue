@@ -50,7 +50,7 @@
   </main>
 
   <footer class="footer">
-    <small>Fiyatlar TL’dir. Görseller temsilidir.</small>
+    <small>©Döner Ağacı | 2024</small>
   </footer>
 </template>
 

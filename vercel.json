@@ -1,6 +1,8 @@
 {
-  "cleanUrls": true,
   "rewrites": [
     { "source": "/menu", "destination": "/index.html" }
+  ],
+  "redirects": [
+    { "source": "/", "destination": "/menu", "permanent": false }
   ]
 }
