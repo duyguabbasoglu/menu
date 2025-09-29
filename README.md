@@ -1,5 +1,12 @@
-# Vue 3 + Vite
+# 🍴 Döner Ağacı Ankara
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Çankaya’nın kalbinde, lezzetli döner çeşitleri ve özenli sunumuyla sizi ağırlamaktan mutluluk duyuyoruz.  
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+📌 **Adres:** Ehlibeyt, Mevlana Blv. No:201/A D:81, 06520 Çankaya/Ankara  
+📞 **Telefon:** (0312) 372 25 25  
+🕒 **Çalışma Saatleri:** Her gün 11:00’den itibaren  
+
+---
+
