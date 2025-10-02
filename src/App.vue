@@ -36,16 +36,16 @@
 
     <div class="grid">
       <article v-for="it in filtered" :key="it.id" class="card">
-        <img :src="it.img || defaultImg" :alt="it.name" @error="onImgErr($event)" />
-        <div class="card-body">
-          <div class="row-split">
-            <h3 class="title">{{ it.name }}</h3>
-            <strong class="price">{{ displayPrice(it) }}</strong>
-          </div>
-          <div class="meta">{{ it.desc || '' }}</div>
-          <span v-if="it.best" class="badge">Çok Satan</span>
-        </div>
-      </article>
+  <img :src="it.img || defaultImg" :alt="it.name" @error="onImgErr($event)" />
+  <div class="card-body">
+    <h3 class="title">{{ it.name }}</h3>
+    <div class="subrow">
+      <div class="meta">{{ it.desc || '' }}</div>
+      <strong class="price">{{ displayPrice(it) }}</strong>
+    </div>
+    <span v-if="it.best" class="badge">Çok Satan</span>
+  </div>
+</article>
     </div>
   </main>
 
