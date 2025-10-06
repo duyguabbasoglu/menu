@@ -24,9 +24,9 @@ img{max-width:100%;display:block}
 .fade-enter-active,.fade-leave-active{transition:opacity .15s ease}
 .fade-enter-from,.fade-leave-to{opacity:0}
 
-.tabs{display:flex; gap:8px; overflow-x:auto; -webkit-overflow-scrolling:touch;padding:0 12px 12px; scrollbar-width:none}
+.tabs{display:flex; gap:8px; overflow-x:auto; -webkit-overflow-scrolling:touch;padding:0 12px 12px; scrollbar-width:none;}
 .tabs::-webkit-scrollbar{display:none}
-.tab{padding:8px 12px; border:1px solid var(--stroke); border-radius:999px;background:transparent; color:var(--fg); white-space:nowrap; cursor:pointer}
+.tab{padding:12px 16px; border:1px solid var(--stroke); border-radius:999px;background:transparent; color:var(--fg); white-space:nowrap; cursor:pointer;font-size:.9rem; font-weight:500;}
 .tab.active{background:var(--accent); color:#09110d; border-color:transparent; font-weight:700}
 
 .container{max-width:980px;margin:0 auto;padding:12px}
