@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <a href="[doneragaci.vercel.app](https://doneragaci.vercel.app/menu)">
+  <a href="https://doneragaci.vercel.app/menu">
     <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&margin=0&data=https%3A%2F%2Fwww.doneragaci.com%2F" alt="Döner Ağacı QR Menü" />
   </a>
 </p>
