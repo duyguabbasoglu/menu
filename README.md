@@ -1,4 +1,4 @@
-# 🍴 Döner Ağacı Ankara
+# 🍴 Döner Ağacı Ankara  | Website:** [https://www.doneragaci.com/](https://www.doneragaci.com/)
 
 Çankaya’nın kalbinde, lezzetli döner çeşitleri ve özenli sunumuyla sizi ağırlamaktan mutluluk duyuyoruz.  
 
@@ -10,3 +10,8 @@
 
 ---
 
+<p align="center">
+  <a href="https://www.doneragaci.com/">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&margin=0&data=https%3A%2F%2Fwww.doneragaci.com%2F" alt="Döner Ağacı QR Menü" />
+  </a>
+</p>
